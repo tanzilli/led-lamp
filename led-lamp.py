@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# pyOSC server for single 32x32 RGB led panel
+# 32x32 RGB led lamp controlled via TouchOSC
 # (c) 2014 Sergio Tanzilli - sergio@tanzilli.com 
 
 from OSC import OSCServer,OSCClient, OSCMessage
